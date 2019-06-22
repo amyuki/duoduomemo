@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 朵朵是一只精力旺盛的小橘猫
 
-You can use the [editor on GitHub](https://github.com/amyuki/duoduomemo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Mar 24, 2019  朵朵出生
+  
+### Apr 21, 2019 接朵朵回家
+  在 @LvWind 和 @moranhgirl 的陪伴下，0.4KG的朵朵回家了。
+### Apr 22, 2019 朵朵会爬高会自行尿尿了
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Apr 23, 2019 朵朵会爬更高了
 
-### Markdown
+### Apr 25， 2019 朵朵送去寄养
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### May 3, 2019 接朵朵回家
 
-```markdown
-Syntax highlighted code block
+### May 4, 2019 朵朵会用猫砂了
 
-# Header 1
-## Header 2
-### Header 3
+### May 11, 2019 朵朵打了猫三联疫苗的第一剂并且使用全儿宁进行体内驱虫
 
-- Bulleted
-- List
+### Jun 8, 2019 朵朵打了猫三联疫苗的第二剂
 
-1. Numbered
-2. List
+### Jun 22, 2019 朵朵使用全儿宁进行体内驱虫，使用大宠爱进行体外驱虫
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amyuki/duoduomemo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
